@@ -1,3 +1,7 @@
+VERS  | NAME            | MANUF        | TYPE
+CL/BR | Joy-Con (L)     | Unknown      | 0x02
+
+
 	BD Address:  XX:XX:XX:XX:XX:XX
 	Device Name: Joy-Con (L)
 	LMP Version: 4.1 (0x7) LMP Subversion: 0x2105
